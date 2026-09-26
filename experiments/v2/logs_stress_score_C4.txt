@@ -1,1 +1,0 @@
-NOTE: C4 stack on C3_direct_x_more_data: scored v2stress (10,320,219 records)

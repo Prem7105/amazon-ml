@@ -1,1 +1,0 @@
-NOTE: B0_baseline_refit on v2test: fit+score complete (738 trees)
